@@ -1,0 +1,24 @@
+{
+  "name": "blog-express-react-redux",
+  "version": "1.0.0",
+  "description": "making a blog site with express, react, redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdlee/blog-express-react-redux.git"
+  },
+  "keywords": [
+    "express",
+    "react",
+    "redux"
+  ],
+  "author": "drdlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdlee/blog-express-react-redux/issues"
+  },
+  "homepage": "https://github.com/drdlee/blog-express-react-redux#readme"
+}
