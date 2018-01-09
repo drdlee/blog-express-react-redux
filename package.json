@@ -3,9 +3,14 @@
 	"version": "1.0.0",
 	"description": "making a blog site with express, react, redux",
 	"main": "index.js",
+	"engines": {
+		"node": "8.9.3",
+		"npm": "5.5.1"
+	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "nodemon index.js"
+		"start": "node index.js",
+		"dev": "nodemon index.js"
 	},
 	"repository": {
 		"type": "git",
